@@ -23,9 +23,13 @@ LED Matrices come in many sizes. At hackSpace, we have the **16x32 LED Matrix**:
 
 - Plug the Matrix Power cable into the Matrix Power slot. See images above.
 
+<img src="Matrix_inputPin.jpg" width="600">
+
 - Find the INPUT slot as in the image above.
 
 - Finally, Power the Matrix using the provided Power Supply. 
+
+
 
 -----------
 ## More about the LED Matrix
